@@ -1,24 +1,10 @@
-# web
+# microcalc.web
 
-## Project setup
-```
-yarn install
-```
+Web client for microcalc
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+![image-20200328205314327](image-20200328205314327.png)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### Technology stack
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* JavaScript
+* Vue.js
